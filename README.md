@@ -8,7 +8,7 @@ A Retrieval-Augmented Generation (RAG) application that lets you upload a PDF an
 - **Embeddings**: `sentence-transformers/all-MiniLM-L6-v2` (HuggingFace)
 - **Vector Store**: ChromaDB (on-disk for CLI, in-memory for Streamlit)
 - **Retrieval**: MMR search (`k=2`, `fetch_k=5`, `lambda_mult=0.5`)
-- **UI**: Streamlit chat interface
+- **UI**: Streamlit chat interface (built with [Antigravity](https://antigravity.dev))
 
 ## Setup
 
