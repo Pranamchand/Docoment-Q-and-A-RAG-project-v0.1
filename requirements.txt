@@ -1,0 +1,46 @@
+# ==============================
+# Environment Variables
+# ==============================
+python-dotenv
+
+# ==============================
+# LangChain Core
+# ==============================
+langchain
+langchain-core
+langchain-text-splitters
+
+# ==============================
+# Google Gemini
+# ==============================
+google-genai
+langchain-google-genai
+
+# ==============================
+# Mistral AI
+# ==============================
+mistralai
+langchain-mistralai
+
+# ==============================
+# Vector Database
+# ==============================
+chromadb
+langchain-chroma
+
+# ==============================
+# Document Loading
+# ==============================
+pypdf
+python-docx
+openpyxl
+langchain-community
+beautifulsoup4
+tiktoken
+langchain_huggingface
+
+
+# ==============================
+# Application
+# ==============================
+streamlit
