@@ -39,6 +39,7 @@ beautifulsoup4
 tiktoken
 langchain_huggingface
 sentence-transformers
+langchain_openrouter
 
 
 # ==============================
