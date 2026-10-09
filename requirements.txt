@@ -38,6 +38,7 @@ langchain-community
 beautifulsoup4
 tiktoken
 langchain_huggingface
+sentence-transformers
 
 
 # ==============================
